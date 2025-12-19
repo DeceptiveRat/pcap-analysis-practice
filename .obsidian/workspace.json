@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "ceb0b0a004c22d0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfb3091b5048b3b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2346c95a51a2a20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "malware-traffic-analysis/5. 2024-07-30/lessons learned.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "lessons learned"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ae60edd560bbbe8",
+    "type": "split",
+    "children": [
+      {
+        "id": "de95eca687eaad93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f89db7ae521e3250",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2f7375ffbbe0e5a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "18e8763612dfe303",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2446aa016d327528",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c13343278069e24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5639eda213a1fdda",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "malware-traffic-analysis/5. 2024-07-30/lessons learned.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for lessons learned"
+            }
+          },
+          {
+            "id": "1dbaca19da2a6c24",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "malware-traffic-analysis/5. 2024-07-30/lessons learned.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from lessons learned"
+            }
+          },
+          {
+            "id": "ea9d43119dfa982a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7c513b86c6bca78c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d44ca05eef59e1c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "malware-traffic-analysis/5. 2024-07-30/lessons learned.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of lessons learned"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c2346c95a51a2a20",
+  "lastOpenFiles": [
+    "malware-traffic-analysis/5. 2024-07-30/IPs.md",
+    "malware-traffic-analysis/5. 2024-07-30/lessons learned.md",
+    "malware-traffic-analysis/5. 2024-07-30/Overview.pdf",
+    "malware-traffic-analysis/4. 2024-08-15/Tasks.md",
+    "malware-traffic-analysis/6. 2023-07",
+    "malware-traffic-analysis/5. 2024-07-30",
+    "malware-traffic-analysis/4. 2024-08-15/victim.md",
+    "malware-traffic-analysis/4. 2024-08-15/Overview.pdf",
+    "malware-traffic-analysis/4. 2024-08-15/timeline.md"
+  ]
+}
